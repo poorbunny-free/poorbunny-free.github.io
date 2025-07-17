@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://poorbunny-free.github.io/sitemap.xml
